@@ -8,5 +8,6 @@ int main(){
     cout << "Final check" << endl;
     cout << "HI" << endl;
     cout << "Akshay's special line of code :3" << endl;
+    cout << "Lol";
     return 0;
 }
